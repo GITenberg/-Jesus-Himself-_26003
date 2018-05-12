@@ -1,0 +1,35 @@
+_repo: -Jesus-Himself-_26003
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Murray, Andrew
+    birthdate: 1828
+    deathdate: 1917
+    gutenberg_agent_id: '4672'
+    url: http://www.gutenberg.org/2009/agents/4672
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Murray_%28minister%29
+description: The presence of the Lord Jesus. That is the secret of the Christian's
+  strength and joy. And what is to make a difference between Christ's disciples-not
+  those who are just hoping to get to heaven, but Christ's whole-hearted disciples-what
+  is to make a difference between them and other people? It is this, to be in fellowship
+  with Jesus-every hour of the day. It is by faith that I learn to know the invisible
+  One, the invisible God, and that I see Him. Faith is my spiritual eye-sight for
+  the unseen and heavenly. You often try hard to trust God, and you fail. Why? Because
+  you have not taken time f.
+gutenberg_issued: '2008-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26003'
+  lccn: '38011365'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BT'
+- !lcsh 'Jesus Christ -- Significance'
+title: '''Jesus Himself'''
+url: http://www.gutenberg.org/ebooks/26003
